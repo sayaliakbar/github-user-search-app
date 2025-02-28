@@ -11,9 +11,7 @@ This repository contains my solution to the [GitHub user search app challenge on
 - [Process](#process)
   - [Built With](#built-with)
   - [Key Learnings](#key-learnings)
-- [Getting Started](#getting-started)
-  - [Installation](#installation)
-  - [Usage](#usage)
+- [Usage](#usage)
 - [Areas for Improvement](#areas-for-improvement)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
@@ -63,7 +61,6 @@ This repository contains my solution to the [GitHub user search app challenge on
 
 ### Links
 
-- **Solution URL**: [View the solution here](https://github.com/sayakbarali/netixsol-internship/blob/main/week-03/day-02-03/github-user-search-app-solution/index.html)
 - **Live Site URL**: [Visit the live demo](https://perfect-bun.surge.sh/)
 
 ---
@@ -99,23 +96,7 @@ This project enhanced skills in:
 
 ---
 
-## Getting Started
-
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-repo/github-user-search.git
-   ```
-2. Open the project folder:
-   ```bash
-   cd github-user-search
-   ```
-3. Open `index.html` in your browser to view the application.
-
----
-
-### Usage
+## Usage
 
 1. Enter a GitHub username in the search bar.
 2. Press "Search" to fetch and display the user details.
@@ -136,8 +117,8 @@ This project enhanced skills in:
 
 ## Author
 
-- GitHub: [@sayakbarali](https://github.com/sayakbarali)
-- LinkedIn: [@sayakbarali](https://linkedin.com/in/sayaliakbar)
+- GitHub: [@sayaliakbar](https://github.com/sayaliakbar)
+- LinkedIn: [@sayaliakbar](https://linkedin.com/in/sayaliakbar)
 
 ---
 
